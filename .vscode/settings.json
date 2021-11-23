@@ -1,0 +1,18 @@
+{
+    "vscode-janus-debug.uploadManually": [
+        "strings"
+    ],
+    "vscode-janus-debug.uploadOnSave": [
+        "ChatScreen",
+        "RegisterScreen",
+        "App",
+        "authController",
+        "app",
+        "ChatHeader",
+        "MessageForm",
+        "index",
+        "Login",
+        "Password",
+        "Register"
+    ]
+}
